@@ -1,5 +1,11 @@
 # Notas
 
+Se deberán de instalar las dependencies de node con:
+
+```
+npm i
+```
+
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
